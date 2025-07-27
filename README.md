@@ -18,6 +18,6 @@ This repository contains various networking designs and solutions created using 
 - Git & GitHub for version control
 - Markdown for documentation
 
-## 📁 Folder Structure
+## 📁 Routing Topology Setup
 ![Example Network Topology](images/topology_example.png)
 
