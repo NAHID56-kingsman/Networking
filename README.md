@@ -36,7 +36,7 @@ This setup showcases a basic **static routing** configuration between routers. E
 
 ## 📁 dynamic_routing Setup (RIP)
 
-![RIP Dynamic Routing Topology]((images/dynamic.png)
+![RIP Dynamic Routing Topology](images/imagesrip_topology.png)
 
 This setup demonstrates **dynamic routing using RIP (Routing Information Protocol)**.
 
